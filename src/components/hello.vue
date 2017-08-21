@@ -18,7 +18,8 @@
       <ul class="nav navbar-nav">
         <li class="active"><a href="#">Link <span class="sr-only">(current)</span></a></li>
         <li><a href="#">Link</a></li>
-        <li><a href="#">font</a></li>
+        <li><a href="#">fonts</a></li>
+        <li><a href="#">icon</a></li>
       </ul>
       <form class="navbar-form navbar-left">
         <div class="form-group">
